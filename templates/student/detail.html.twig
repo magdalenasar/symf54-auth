@@ -1,0 +1,14 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+
+    <h1>Dit is de student in kwestie:</h1>
+
+    {{ student.naam }}
+    {{ student.voornaam }}
+    {{ student.punten }}
+    {{ student.geslacht }}
+    {{ student.geboortedatum | ago }}
+    {{ student.geboortedatum | date("d/m/Y") }}
+
+{% endblock %}

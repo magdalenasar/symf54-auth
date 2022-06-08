@@ -1,0 +1,13 @@
+Dit is een bericht vanuit de HomeController!
+2022-05-10 14:04:52: select * from film
+2022-05-10 14:11:06: select * from film
+2022-05-10 14:13:23: select * from film where film.id=2
+2022-05-10 14:13:58: select * from film where film_id=2
+2022-05-12 09:53:51: select * from film
+2022-05-12 09:54:14: select * from film
+2022-05-12 09:55:10: select * from film
+Posting a new film! Mijn titel
+2022-05-12 09:55:39: select * from film
+2022-05-12 12:06:14: select * from film
+2022-05-14 15:47:55: select * from film
+Dit is een bericht vanuit de HomeController!
